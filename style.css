@@ -1,0 +1,82 @@
+body {
+	background-image: url("assets/images/concrete-texture.png");
+}
+
+.header-margin {
+	margin-bottom: 20px;
+}
+
+.navbar-light .navbar-brand {
+	font-size: 24px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+}
+
+.header .clear-fix {
+	margin-bottom: 40px;
+}
+
+.navbar {
+	padding: 0;
+	height: 60px;
+}
+
+.img-thumbnail {
+	margin-left: 30px;
+	width: 60px; 
+}
+
+.navbar-brand {
+	height: 100%;
+	padding-top: .5em;
+	padding-right: .3125em;
+	padding-left: .3125em;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	background-color: #4aaaa5;
+}
+
+a {
+	color: #4aaaa5;
+}
+
+.container {
+	flex-wrap: wrap;
+	height: 100%;
+	margin-bottom: 125px;
+}
+
+.container-fluid {
+	height: 100%;
+}
+
+.card {
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.card-img-top {
+	width: 50%;
+	margin: auto;
+}
+
+h4 {
+	color: #4aaaa5;
+	margin-left: 40%;
+}
+
+h2 {
+	background-color: #4aaaa5;
+	text-align: center;
+	padding: 5px;
+}
+
+h3 {
+	color: #4aaaa5;
+}
+
+
+
+
+
